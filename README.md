@@ -2,7 +2,7 @@
 ```mermaid
 
 flowchart TD
-    %% Определение стилей (цвета как на референсе)
+    %% Определение стилей
     classDef common fill:#4CAF50,stroke:#2E7D32,stroke-width:2px,color:white;
     classDef nocode fill:#2196F3,stroke:#1565C0,stroke-width:2px,color:white;
     classDef vibecode fill:#FF9800,stroke:#EF6C00,stroke-width:2px,color:white;
